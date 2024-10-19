@@ -12,5 +12,9 @@ My name is Mohamed Aziz Ben Rejeb, I'm currently a **Computer Networks Engineeri
 
 📫 Reach out to me via **azizbenrejeb@gmail.com**
 
-## 🌱 Certifications
+## 🎉 Certifications
 <a href="https://www.credly.com/badges/267fa9d8-540b-4505-aa88-42ca8437de7b/public_url"><img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Developer-Associate_badge_150x150.a8973e238efb2d1b0b24f5282e1ad87eb554e6ef.png"></a>
+
+
+## 🌱 Private Contributions this Year
+![image](https://github.com/user-attachments/assets/6dca3ad0-7289-4fe1-bfb3-5471d0c4d86d)
