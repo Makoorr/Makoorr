@@ -1,5 +1,5 @@
 ## 👋 Hey there, I am Aziz
-My name is Mohamed Aziz Ben Rejeb, I'm a **Computer Networks Engineering** Engineer @National Institute of Applied Sciences and Technology (**INSAT**)
+My name is Aziz Ben Rejeb, I'm a **Computer Networks Engineering** Engineer @National Institute of Applied Sciences and Technology (**INSAT**)
 
 <a href="https://www.linkedin.com/in/aziz-ben-rejeb/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="linkedin logo"  />
 
